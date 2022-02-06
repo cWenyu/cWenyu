@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wenyu
 - 👀 I’m interested in JavaScript, Java and a little bit python.
 - 🌱 I’m currently learning JS and React.
-- 📫 shiwenyv"gmail.com
+- 📫 shiwenyv@gmail.com
 
 <!---
 cWenyu/cWenyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
